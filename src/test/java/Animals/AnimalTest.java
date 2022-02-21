@@ -23,7 +23,7 @@ class AnimalTest {
                 return null;
             }
         };
-        String expectedName = "testCog";
+        String expectedName = "testDog";
         // WHEN
         String actualName = animal.getName();
         // THEN
